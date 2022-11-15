@@ -1,13 +1,22 @@
 // Simple recursion example, just to test hosting p5.js on github
 
+// '->' increases the depth of the recursion, '<-b' decreases it
+let currLevel = 6;
+
 function setup() {
   createCanvas(720, 560);
   noStroke();
-  noLoop();
+  // noLoop();
 }
 
 function draw() {
-  drawCircle(width / 2, 280, 6);
+  drawCircle(width / 2, 280, currLevel);
+	textSize(25);
+	text('Press -> to increase depth, <- to decrease',30,30);
+	if (keyIsDown(LEFT_ARROW))
+		currLevel = min(currLevel+1,8);
+	if (keyIsDown(RIGHT_ARROW))
+		currLevel = max(currLevel-1,0);
 }
 
 function drawCircle(x, radius, level) {
