@@ -16,7 +16,7 @@ French government docs follow their naming convention for school years, below. A
 +----------------------------+-------------------------------+
 | New Zealand system         | France system                 |
 +----------------------------+-------------------------------+
-|                            | <École Élementaire (5 yr):>   |
+|                            | <École Élémentaire (5 yr):>   |
 | Year 2 (Primary)           | CP (Cours Préparatoire)       | ‖
 | Year 3 (Primary)           | CE1 (Cours Élémentaire 1)     | ‖ Cycle 2
 | Year 4 (Primary)           | CE2 (Cours Élémentaire 2)     | ‖
@@ -39,7 +39,7 @@ Three kinds of publications describe the contents and competences taught each sc
 
 - (1) **Attendus** explain what the student should know at the end of each year.
 
-- (2) **Repères** explain what the student should know at the end of each *cycle*—and also how their proficiency should increase for each year within the cycle.
+- (2) **Repères** explain what the student should know at the end of each *cycle*—and also how their proficiency should increase for each year within the cycle.lemen
 
 - The following sources of attendus and repères complement each other:
 
@@ -49,5 +49,5 @@ Three kinds of publications describe the contents and competences taught each sc
 
 Not all combinations of <subject, year, attendu, repère> are there—but there's more than enough to get a good idea.
 
-- (3) Secondary to the former two, **summaries** for Élementaire and Collège contain a high-level overview of all subjects on the same page—with optional pointers to blistering amounts of detail on 2026 changes: [Summaries for École Élementaire and Collège, among others](https://www.education.gouv.fr/programmes-scolaires-41483)
+- (3) Secondary to the former two, **summaries** for Élémentaire and Collège contain a high-level overview of all subjects on the same page—with optional pointers to blistering amounts of detail on 2026 changes: [Summaries for École Élémentaire and Collège, among others](https://www.education.gouv.fr/programmes-scolaires-41483)
 
